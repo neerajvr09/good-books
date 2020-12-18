@@ -7,4 +7,4 @@ It is made using ReactJs, a famous JavaScript library.
 # how it works
 Just click on any books'category to know my favourite books.
 
-Project Link : https://z7czv.csb.app/
+Project Link : https://favouritebooks.netlify.app/
